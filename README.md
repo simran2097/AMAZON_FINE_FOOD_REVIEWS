@@ -3,6 +3,7 @@ Amazon Fine Food Reviews Analysis Data Source: https://www.kaggle.com/snap/amazo
 EDA: https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/  
 
 The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amazon.
+
 Number of reviews: 568,454
 Number of users: 256,059
 Number of products: 74,258 
